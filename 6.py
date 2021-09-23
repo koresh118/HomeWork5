@@ -1,4 +1,3 @@
-quantity = 0
 
 my_list = []
 
